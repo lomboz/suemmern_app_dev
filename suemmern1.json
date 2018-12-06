@@ -1,0 +1,32 @@
+{
+  "$jason": {
+    "body": {
+      "footer": {
+        "tabs": {
+          "items": [
+            {
+              "text": "Start",
+              "url": "https://web.jasonette.com/items/1066.json"
+            },
+            {
+              "text": "Kalender",
+              "url": "https://web.jasonette.com/items/1063.json"
+            },
+            {
+              "text": "Tab 3",
+              "url": "https://web.jasonette.com/items/1063.json"
+            },
+            {
+              "text": "Tab 4",
+              "url": "https://web.jasonette.com/items/1063.json"
+            },
+            {
+              "text": "Tab 5",
+              "url": "https://web.jasonette.com/items/1063.json"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
