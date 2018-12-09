@@ -1,34 +1,34 @@
 {
   "$jason": {
+    "head": {
+      "title": "offline test",
+      "offline": "true"
+    },
     "body": {
-      "header": {
-        "title": "St. Sebastian Sümmern"
-      },
-      "style": {
-        "background": "http://i.giphy.com/Is0AJv4CEj9hm.gif"
+      "background": {
+        "type": "html",
+        "url": "https://suemmern.net",
+        "action": {
+          "type": "$default"
+        }
       },
       "footer": {
         "tabs": {
           "items": [
             {
-              "text": "Start",
-              "url": "https://web.jasonette.com/items/1066.json"
+              "image": "https://raw.githubusercontent.com/lomboz/suemmern_app_dev/master/logo/home.png",
+              "text": "Home",
+              "url": "https://web.jasonette.com/items/1062.json"
             },
             {
+              "image": "https://raw.githubusercontent.com/lomboz/suemmern_app_dev/master/logo/calendar.png",
               "text": "Kalender",
               "url": "https://web.jasonette.com/items/1063.json"
             },
             {
-              "text": "Tab 3",
-              "url": "https://web.jasonette.com/items/1063.json"
-            },
-            {
-              "text": "Tab 4",
-              "url": "https://web.jasonette.com/items/1063.json"
-            },
-            {
-              "text": "Tab 5",
-              "url": "https://web.jasonette.com/items/1063.json"
+              "image": "https://raw.githubusercontent.com/lomboz/suemmern_app_dev/master/logo/upload.png",
+              "text": "Upload",
+              "url": "https://web.jasonette.com/items/1066.json"
             }
           ]
         }
