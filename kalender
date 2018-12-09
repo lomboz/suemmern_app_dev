@@ -1,0 +1,38 @@
+{
+  "$jason": {
+    "head": {
+      "title": "offline test",
+      "offline": "true"
+    },
+    "body": {
+      "background": {
+        "type": "html",
+        "url": "https://suemmern.net/index.php/kalender-st-sebastian",
+        "action": {
+          "type": "$default"
+        }
+      },
+      "footer": {
+        "tabs": {
+          "items": [
+            {
+              "image": "https://raw.githubusercontent.com/lomboz/suemmern_app_dev/master/logo/home.png",
+              "text": "Home",
+              "url": "https://web.jasonette.com/items/1062.json"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/lomboz/suemmern_app_dev/master/logo/calendar.png",
+              "text": "Kalender",
+              "url": "https://web.jasonette.com/items/1063.json"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/lomboz/suemmern_app_dev/master/logo/upload.png",
+              "text": "Upload",
+              "url": "https://web.jasonette.com/items/1066.json"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
