@@ -1,6 +1,12 @@
 {
   "$jason": {
     "body": {
+      "header": {
+        "title": "St. Sebastian Sümmern"
+      },
+      "style": {
+        "background": "http://i.giphy.com/Is0AJv4CEj9hm.gif"
+      },
       "footer": {
         "tabs": {
           "items": [
