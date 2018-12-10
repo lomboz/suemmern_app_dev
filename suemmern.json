@@ -16,19 +16,19 @@
         "tabs": {
           "items": [
             {
-              "image": "https://raw.githubusercontent.com/lomboz/suemmern_app_dev/master/logo/home.png",
+              "image": "https://app.suemmern.net/logo/home.png",
               "text": "Home",
-              "url": "https://web.jasonette.com/items/1062.json"
+              "url": "https://app.suemmern.net/suemmern.json"
             },
             {
-              "image": "https://raw.githubusercontent.com/lomboz/suemmern_app_dev/master/logo/calendar.png",
+              "image": "https://app.suemmern.net/logo/calendar.png",
               "text": "Kalender",
-              "url": "https://web.jasonette.com/items/1063.json"
+              "url": "https://app.suemmern.net/kalender.json"
             },
             {
-              "image": "https://raw.githubusercontent.com/lomboz/suemmern_app_dev/master/logo/upload.png",
+              "image": "https://app.suemmern.net/logo/upload.png",
               "text": "Upload",
-              "url": "https://web.jasonette.com/items/1066.json"
+              "url": "https://app.suemmern.net/upload.json"
             }
           ]
         }
